@@ -1,6 +1,5 @@
 package com.samgeori.domain.Member;
 
-import lombok.AllArgsConstructor;
 import lombok.Builder;
 
 import javax.persistence.*;
