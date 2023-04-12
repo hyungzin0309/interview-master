@@ -1,0 +1,6 @@
+rootProject.name = 'interview-master'
+include 'interview-domain'
+include 'interview-domain-infra'
+include 'interview-external-api'
+include 'interview-web'
+
